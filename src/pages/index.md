@@ -81,8 +81,6 @@ sections:
       to us.
     title: The Most Accurate Tax Return Preparation
     type: section_content
-  - bg: gray
-    type: section_content
   - bg: white
     content: >-
       When you decide to hire someone to do your taxes, you want them to know
