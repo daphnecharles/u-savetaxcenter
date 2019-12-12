@@ -30,4 +30,3 @@ menus:
     weight: 3
 template: landing
 ---
-
