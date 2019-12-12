@@ -12,10 +12,10 @@ sections:
 menus:
   main:
     title: Contact
-    weight: 3
+    weight: 5
   secondary:
     title: Contact
-    weight: 3
+    weight: 4
 template: landing
 ---
 
