@@ -5,7 +5,7 @@ sections:
       - label: Get a Quote
         url: /contact
     content: Maximum Refund Guaranteed
-    image: images/hero.png
+    image: /images/undraw_wallet_aym5.svg
     section_id: hero
     title: Get $50 Dollars Cash For Every Customer You Refer To Us
     type: section_hero
