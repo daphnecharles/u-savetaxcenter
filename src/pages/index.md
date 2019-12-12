@@ -2,12 +2,12 @@
 title: Home
 sections:
   - actions:
-      - label: Get a Quote
-        url: /contact
+      - label: Contact Us Today
+        url: /contact/
     content: Maximum Refund Guaranteed
     image: /images/undraw_wallet_aym5.svg
     section_id: hero
-    title: Get $50 Dollars Cash For Every Customer You Refer To Us
+    title: Get $20 Dollars Cash For Every Customer You Refer To Us
     type: section_hero
   - bg: gray
     featureslist:
@@ -15,19 +15,19 @@ sections:
           - label: Learn More
             url: /features
         content: ''
-        image: images/feature1.png
+        image: /images/undraw_savings_dwkw.svg
         title: 'Get a Refund Loan Up to $2,500 in 30 minutes'
       - actions:
           - label: Learn More
             url: /features
         content: ''
-        image: images/feature2.png
+        image: /images/undraw_happy_feeling_slmw.svg
         title: No Up Front Fees/Tax Preparation Fee Comes Out Of Your Refund
       - actions:
-          - label: Call Now
-            url: /features
+          - label: Contact Us Today
+            url: /contact/
         content: ''
-        image: images/feature3.png
+        image: /images/undraw_mobile_app_p3ts.svg
         title: Call Now For Quick Tax Preparation Services!
     section_id: features
     subtitle: ''
@@ -35,10 +35,10 @@ sections:
     type: section_features
   - actions:
       - label: Call (973) 763-7769
-        url: /contact/
+        url: 'tel:973-763-7769'
     section_id: call-to-action
-    subtitle: 'Get A Refund Loan Up To $2,500 In 30 Minutes'
-    title: Got Kids? Get Over $6000 In Earned Income Credit
+    subtitle: Get A Refund Loan Up To $6000 In 24 Hours Or Less
+    title: Got Kids? Get Over $6200 In Earned Income Credit
     type: section_cta
   - bg: white
     reviews:
@@ -74,14 +74,11 @@ sections:
 
        U-Save Tax Center has been preparing tax returns for over 20 years. Our accurate and reliable services are what makes us an industry leader along with the ability to fulfill our customers’ specific tax preparation needs.
 
-      We offer electronic filing with a refund anticipation loan up to $2500.00
-      in 30 minutes or less. In addition, there is no upfront fees when you file
-      your return. Your fee will be deducted from your tax refund when the IRS
-      issues your check. We also offer $50.00 cash for every customer you refer
-      to us.
+      We offer electronic filing with a refund anticipation loan up to $6000 in
+      24 hours or less. In addition, there is no upfront fees when you file your
+      return. Your fee will be deducted from your tax refund when the IRS issues
+      your check. We also offer $20 cash for every customer you refer to us.
     title: The Most Accurate Tax Return Preparation
-    type: section_content
-  - bg: gray
     type: section_content
   - bg: white
     content: >-
