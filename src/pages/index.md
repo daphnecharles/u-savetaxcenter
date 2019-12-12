@@ -39,11 +39,16 @@ sections:
         image: images/feature3.png
         title: Call now for quick tax preparation services!
     section_id: features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    title: Features
+    subtitle: ''
+    title: ''
     type: section_features
+  - actions:
+      - label: Call (973) 763-7769
+        url: /contact/
+    section_id: call-to-action
+    subtitle: 'Get A Refund Loan Up To $2,500 In 30 Minutes'
+    title: Got Kids? Get Over $6000 In Earned Income Credit
+    type: section_cta
   - bg: white
     reviews:
       - author: John Doe
@@ -68,17 +73,6 @@ sections:
       semper libero id sodales. 
     title: Testimonials
     type: section_reviews
-  - actions:
-      - label: Get Started
-        url: /signup
-    section_id: call-to-action
-    subtitle: This is an optional description for the call to action block.
-    title: This Is Call To Action Block!
-    type: section_cta
-  - bg: gray
-    section_id: recent-posts
-    title: Latest Posts
-    type: section_posts
 menus:
   main:
     title: Home
