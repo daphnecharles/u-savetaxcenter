@@ -70,6 +70,9 @@ menus:
   main:
     title: Amended Tax Return
     weight: 3
+  secondary:
+    title: Amended Tax Return
+    weight: 3
 template: landing
 ---
 
