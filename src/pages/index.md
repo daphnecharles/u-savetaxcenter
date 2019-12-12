@@ -83,6 +83,26 @@ sections:
     type: section_content
   - bg: gray
     type: section_content
+  - bg: white
+    content: >-
+      When you decide to hire someone to do your taxes, you want them to know
+      what they are doing. Here at U-Save Tax Center LLC, we bring decades of
+      experience to the work we do for you.
+
+
+      Our fast and reliable services are what makes us an industry standout
+      along with our ability to fulfill our customers' specific tax preparation
+      needs. We have experience with all the main types of returns, including
+      Small Business (Schedule C), Corporate Tax Return (1120), and Partnerships
+      (1065).
+
+
+      To make sure there are no errors on your tax form, we do precise
+      calculating. Additionally, we have many incentives for our clients. We
+      offer free tax preparation services for working teenagers whose parents
+      have their taxes prepared by us.
+    title: About Us
+    type: section_content
 menus:
   main:
     title: Home
