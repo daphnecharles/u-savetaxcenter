@@ -1,19 +1,9 @@
 {
-    "links": [
-        {
-            "type": "twitter",
-            "title": "Twitter",
-            "url": "https://twitter.com/"
-        },
-        {
-            "type": "instagram",
-            "title": "Instagram",
-            "url": "https://www.instagram.com/"
-        },
-        {
-            "type": "linkedin",
-            "title": "LinkedIn",
-            "url": "https://www.linkedin.com/"
-        }
-    ]
+  "links": [
+    {
+      "type": "twitter",
+      "title": "Facebook",
+      "url": "https://www.facebook.com/U-Save-Tax-Center-LLC-1962872917320639/"
+    }
+  ]
 }
