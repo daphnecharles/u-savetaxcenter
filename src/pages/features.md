@@ -24,7 +24,7 @@ sections:
       **Earned Income Tax Credit**
 
 
-      Receive over $6,000 as Earned Income Tax Credit, which is the money that
+      Receive over $6,200 as Earned Income Tax Credit, which is the money that
       the government gives to those under the poverty line. If you only make
       about $12,000 to $15,000 a year and have kids, you are typically qualified
       for the Earned Income Tax Credit.
@@ -36,7 +36,7 @@ sections:
       Even though we offer quick returns, you may need money right now. We offer
       Refund Anticipation Loans for clients needing money within 24 hours. When
       you make your request, we provide you with a loan against your refund up
-      to $1500. We will retain the amount of the loan from the refund once the
+      to $6000. We will retain the amount of the loan from the refund once the
       IRS issues your tax return check.
     image: /images/undraw_personal_finance_tqcd.svg
     section_id: ''
