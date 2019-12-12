@@ -37,6 +37,9 @@ menus:
   main:
     title: Tax Services
     weight: 2
+  secondary:
+    title: Tax Services
+    weight: 2
 template: landing
 ---
 
