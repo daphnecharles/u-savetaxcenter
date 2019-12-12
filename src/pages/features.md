@@ -11,9 +11,7 @@ sections:
       anticipation loans, we are committed to handling all your tax needs.
 
 
-
-
-      ## Amended Tax Returns
+      **Amended Tax Returns**
 
 
       Amended tax returns benefit clients who received their tax information too
@@ -23,7 +21,7 @@ sections:
       collect a fee from your tax return.
 
 
-      ## Earned Income Tax Credit
+      **Earned Income Tax Credit**
 
 
       Receive over $6,000 as Earned Income Tax Credit, which is the money that
@@ -32,7 +30,7 @@ sections:
       for the Earned Income Tax Credit.
 
 
-      ## Refund Anticipation Loans
+      **Refund Anticipation Loans**
 
 
       Even though we offer quick returns, you may need money right now. We offer
