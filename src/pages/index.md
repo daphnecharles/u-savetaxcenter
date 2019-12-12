@@ -16,7 +16,7 @@ sections:
             url: /tax-services/
         content: ''
         image: /images/undraw_savings_dwkw.svg
-        title: 'Get a Refund Loan Up to $2,500 in 30 minutes'
+        title: Get a Refund Loan Up to $6000 in 24 Hours or Less
       - actions:
           - label: Learn More
             url: /tax-services/
