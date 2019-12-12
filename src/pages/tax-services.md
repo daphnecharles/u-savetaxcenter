@@ -47,7 +47,7 @@ sections:
         url: /contact/
     section_id: call-to-action
     subtitle: ''
-    title: Got Kids? Get Over $6000 In Earned Income Credit!
+    title: Got Kids? Get Over $6200 In Earned Income Credit!
     type: section_cta
 menus:
   main:
