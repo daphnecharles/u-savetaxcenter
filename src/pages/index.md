@@ -42,26 +42,25 @@ sections:
     type: section_cta
   - bg: white
     reviews:
-      - author: John Doe
-        avatar: images/review1.jpg
+      - author: John Okendi
+        avatar: ''
+        content: These people are the best! The customer service is the best.
+      - author: Canzetta Williams
+        avatar: ''
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - author: Jane Roe
-        avatar: images/review2.jpg
+          I went there to do my tax return, and I was shocked to see how
+          friendly these people were. Great service, I highly recommend going
+          here every year.
+      - author: Yorline Peters
+        avatar: ''
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
-      - author: Richard Roe
-        avatar: images/review3.jpg
-        content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          The tax preparers there are very flexible. Even if you don't have all
+          your documents, they'll file your return and you can e-mail them
+          later. 
     section_id: reviews
     subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
+      Our customers rely on us every year to get their tax refunds on time. This
+      is proof we do not let them down!
     title: Testimonials
     type: section_reviews
   - bg: gray
