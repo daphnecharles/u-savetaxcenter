@@ -2,12 +2,12 @@
 title: Contact
 sections:
   - bg: gray
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
+    content: |-
+      Address: 1773 Springfield Ave, Maplewood NJ 07040
+
+      Phone: (973) 763-7769
     section_id: contact
-    title: Contact
+    title: Contact Us Today!
     type: section_contact
 menus:
   main:
