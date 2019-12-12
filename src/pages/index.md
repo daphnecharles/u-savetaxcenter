@@ -13,13 +13,13 @@ sections:
     featureslist:
       - actions:
           - label: Learn More
-            url: /features
+            url: /tax-services/
         content: ''
         image: /images/undraw_savings_dwkw.svg
         title: 'Get a Refund Loan Up to $2,500 in 30 minutes'
       - actions:
           - label: Learn More
-            url: /features
+            url: /tax-services/
         content: ''
         image: /images/undraw_happy_feeling_slmw.svg
         title: No Up Front Fees/Tax Preparation Fee Comes Out Of Your Refund
@@ -35,7 +35,7 @@ sections:
     type: section_features
   - actions:
       - label: Call (973) 763-7769
-        url: 'tel:973-763-7769'
+        url: ''
     section_id: call-to-action
     subtitle: Get A Refund Loan Up To $6000 In 24 Hours Or Less
     title: Got Kids? Get Over $6200 In Earned Income Credit
