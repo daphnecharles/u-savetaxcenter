@@ -19,7 +19,7 @@ sections:
           aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
           consequat ex.
         image: images/feature1.png
-        title: The Best Feature of Your Services
+        title: 'Get a Refund loan up to $2,500 in 30 minutes'
       - actions:
           - label: Learn More
             url: /features
@@ -28,16 +28,16 @@ sections:
           sapien interdum luctus. Cras rhoncus condimentum metus sit amet
           auctor.
         image: images/feature2.png
-        title: Awesome Feature of Your Services
+        title: No Up Front Fees/Tax Preparation Fee Comes Out Of Your Refund
       - actions:
-          - label: Learn More
+          - label: Call Now
             url: /features
         content: >-
           In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
           quis venenatis sem. Proin eget massa id metus eleifend maximus sit
           amet nec urna.
         image: images/feature3.png
-        title: Cool Feature of Your Services
+        title: Call now for quick tax preparation services!
     section_id: features
     subtitle: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
