@@ -66,6 +66,9 @@ sections:
     subtitle: 'Phasellus luctus laoreet arcu, vel porta metus imperdiet sit amet.'
     title: Frequently Asked Questions
     type: section_faq
+  - content: Test
+    image: /images/undraw_calculator_0evy.svg
+    type: section_hero
 menus:
   main:
     title: Amended Tax Return
