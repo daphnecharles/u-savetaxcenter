@@ -14,30 +14,21 @@ sections:
       - actions:
           - label: Learn More
             url: /features
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: ''
         image: images/feature1.png
-        title: 'Get a Refund loan up to $2,500 in 30 minutes'
+        title: 'Get a Refund Loan Up to $2,500 in 30 minutes'
       - actions:
           - label: Learn More
             url: /features
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: ''
         image: images/feature2.png
         title: No Up Front Fees/Tax Preparation Fee Comes Out Of Your Refund
       - actions:
           - label: Call Now
             url: /features
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: ''
         image: images/feature3.png
-        title: Call now for quick tax preparation services!
+        title: Call Now For Quick Tax Preparation Services!
     section_id: features
     subtitle: ''
     title: ''
