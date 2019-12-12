@@ -5,7 +5,7 @@ sections:
       - label: Free Trial
         url: /signup
       - label: View Demo
-        url: '#'
+        url: "#"
     bg: gray
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
@@ -28,7 +28,7 @@ sections:
     type: section_content
   - actions:
       - label: Get Started
-        url: '#'
+        url: "#"
     section_id: call-to-action
     subtitle: This is an optional description for the call to action block.
     title: This Is Call to Action Block!
@@ -42,4 +42,3 @@ menus:
     weight: 2
 template: landing
 ---
-
