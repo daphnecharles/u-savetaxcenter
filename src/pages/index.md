@@ -64,6 +64,25 @@ sections:
       semper libero id sodales. 
     title: Testimonials
     type: section_reviews
+  - bg: gray
+    content: >-
+      You want the maximum refund when you file your taxes and your chance to
+      accomplish this is greatly improved if you choose U-Save Tax Center as
+      your tax preparation firm. Our Certified Tax Professionals have extensive
+      skills and experience in preparing accurately any Individual or business
+      tax return.
+
+       U-Save Tax Center has been preparing tax returns for over 20 years. Our accurate and reliable services are what makes us an industry leader along with the ability to fulfill our customers’ specific tax preparation needs.
+
+      We offer electronic filing with a refund anticipation loan up to $2500.00
+      in 30 minutes or less. In addition, there is no upfront fees when you file
+      your return. Your fee will be deducted from your tax refund when the IRS
+      issues your check. We also offer $50.00 cash for every customer you refer
+      to us.
+    title: The Most Accurate Tax Return Preparation
+    type: section_content
+  - bg: gray
+    type: section_content
 menus:
   main:
     title: Home
