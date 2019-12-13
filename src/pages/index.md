@@ -2,6 +2,13 @@
 title: Home
 sections:
   - actions:
+      - label: Call (973) 763-7769
+        url: ''
+    section_id: call-to-action
+    subtitle: Got Kids? Get Over $6200 In Earned Income Credit
+    title: Get A Refund Loan Up To $6000 In 24 Hours Or Less
+    type: section_cta
+  - actions:
       - label: Contact Us Today
         url: /contact/
     content: Maximum Refund Guaranteed
@@ -33,13 +40,6 @@ sections:
     subtitle: ''
     title: ''
     type: section_features
-  - actions:
-      - label: Call (973) 763-7769
-        url: ''
-    section_id: call-to-action
-    subtitle: Get A Refund Loan Up To $6000 In 24 Hours Or Less
-    title: Got Kids? Get Over $6200 In Earned Income Credit
-    type: section_cta
   - bg: white
     reviews:
       - author: John Okendi
