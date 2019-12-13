@@ -5,25 +5,25 @@ sections:
       - label: Call (973) 763-7769
         url: ''
     section_id: call-to-action
-    subtitle: Got Kids? Get Over $6200 In Earned Income Credit
+    subtitle: ''
     title: Get A Refund Loan Up To $6000 In 24 Hours Or Less
     type: section_cta
   - actions:
       - label: Contact Us Today
         url: /contact/
-    content: Maximum Refund Guaranteed
-    image: /images/undraw_wallet_aym5.svg
+    content: ''
+    image: /images/undraw_play_time_7k7b.svg
     section_id: hero
-    title: Get $20 Dollars Cash For Every Customer You Refer To Us
+    title: Got Kids? Get Over $6200 In Earned Income Credit
     type: section_hero
   - bg: gray
     featureslist:
       - actions:
           - label: Learn More
             url: /tax-services/
-        content: ''
+        content: Maximum Refund Guaranteed
         image: /images/undraw_savings_dwkw.svg
-        title: Get a Refund Loan Up to $6000 in 24 Hours or Less
+        title: Get $20 Dollars Cash For Every Customer You Refer To Us
       - actions:
           - label: Learn More
             url: /tax-services/
