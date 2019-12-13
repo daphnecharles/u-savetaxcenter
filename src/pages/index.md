@@ -14,7 +14,7 @@ sections:
     content: ''
     image: /images/undraw_play_time_7k7b.svg
     section_id: hero
-    title: Got Kids? Get Over $6200 In Earned Income Credit
+    title: Got Kids? Get Over $6400 In Earned Income Credit
     type: section_hero
   - bg: gray
     featureslist:
