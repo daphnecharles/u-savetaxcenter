@@ -24,7 +24,7 @@ sections:
       **Earned Income Tax Credit**
 
 
-      Receive over $6,200 as Earned Income Tax Credit, which is the money that
+      Receive over $6,400 as Earned Income Tax Credit, which is the money that
       the government gives to those under the poverty line. If you only make
       about $12,000 to $15,000 a year and have kids, you are typically qualified
       for the Earned Income Tax Credit.
@@ -47,7 +47,7 @@ sections:
         url: /contact/
     section_id: call-to-action
     subtitle: ''
-    title: Got Kids? Get Over $6200 In Earned Income Credit!
+    title: Got Kids? Get Over $6400 In Earned Income Credit!
     type: section_cta
 menus:
   main:
