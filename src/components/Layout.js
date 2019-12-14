@@ -20,7 +20,7 @@ export default class Body extends React.Component {
           <meta charSet="utf-8" />
           <meta
             name="viewport"
-            content="width=device-width, initialScale=1.0"
+            content="width=device-width, initial-scale=1.0"
           />
           <meta name="google" content="notranslate" />
           <meta
