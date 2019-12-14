@@ -19,13 +19,13 @@ sections:
   - bg: gray
     featureslist:
       - actions:
-          - label: Learn More
+          - label: Learn More About Our Referral Program
             url: /tax-services/
         content: Maximum Refund Guaranteed
         image: /images/undraw_savings_dwkw.svg
         title: Get $20 Dollars Cash For Every Customer You Refer To Us
       - actions:
-          - label: Learn More
+          - label: Learn More About Our Tax Services
             url: /tax-services/
         content: ''
         image: /images/undraw_happy_feeling_slmw.svg
