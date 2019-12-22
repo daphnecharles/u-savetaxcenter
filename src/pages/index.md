@@ -6,7 +6,7 @@ sections:
         url: ''
     section_id: call-to-action
     subtitle: ''
-    title: Get A Refund Loan Up To $6000 In 24 Hours Or Less
+    title: Get A Cash Advance Up To $6000 In 24 Hours Or Less
     type: section_cta
   - actions:
       - label: Contact Us Today
