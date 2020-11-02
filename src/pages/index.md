@@ -3,16 +3,16 @@ title: Home
 sections:
   - actions:
       - label: Call (973) 763-7769
-        url: ''
+        url: ""
     section_id: call-to-action
-    subtitle: ''
+    subtitle: ""
     title: Get A Cash Advance Up To $6000 In 24 Hours Or Less
     type: section_cta
   - actions:
       - label: Contact Us Today
         url: /contact/
-    content: ''
-    image: /images/undraw_play_time_7k7b.svg
+    content: ""
+    image: /images/family.jpg
     section_id: hero
     title: Got Kids? Get Over $6400 In Earned Income Credit
     type: section_hero
@@ -22,41 +22,41 @@ sections:
           - label: Learn More About Our Referral Program
             url: /tax-services/
         content: Maximum Refund Guaranteed
-        image: /images/undraw_savings_dwkw.svg
+        image: /images/money.png
         title: Get $20 Dollars Cash For Every Customer You Refer To Us
       - actions:
           - label: Learn More About Our Tax Services
             url: /tax-services/
-        content: ''
-        image: /images/undraw_happy_feeling_slmw.svg
+        content: ""
+        image: /images/refund.jpg
         title: No Up Front Fees/Tax Preparation Fee Comes Out Of Your Refund
       - actions:
           - label: Contact Us Today
             url: /contact/
-        content: ''
-        image: /images/undraw_mobile_app_p3ts.svg
+        content: ""
+        image: /images/phone.jpg
         title: Call Now For Quick Tax Preparation Services!
     section_id: features
-    subtitle: ''
-    title: ''
+    subtitle: ""
+    title: ""
     type: section_features
   - bg: white
     reviews:
       - author: John Okendi
-        avatar: ''
+        avatar: ""
         content: These people are the best! The customer service is the best.
       - author: Canzetta Williams
-        avatar: ''
+        avatar: ""
         content: >-
           I went there to do my tax return, and I was shocked to see how
           friendly these people were. Great service, I highly recommend going
           here every year.
       - author: Yorline Peters
-        avatar: ''
+        avatar: ""
         content: >-
           The tax preparers there are very flexible. Even if you don't have all
           your documents, they'll file your return and you can e-mail them
-          later. 
+          later.
     section_id: reviews
     subtitle: >-
       Our customers rely on us every year to get their tax refunds on time. This
@@ -108,4 +108,3 @@ menus:
     weight: 1
 template: landing
 ---
-

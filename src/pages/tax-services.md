@@ -38,15 +38,15 @@ sections:
       you make your request, we provide you with a loan against your refund up
       to $6000. We will retain the amount of the loan from the refund once the
       IRS issues your tax return check.
-    image: /images/undraw_personal_finance_tqcd.svg
-    section_id: ''
+    image: /images/money2.jpg
+    section_id: ""
     title: E-File to Get Your Money Faster
     type: section_content
   - actions:
       - label: Contact Us Today
         url: /contact/
     section_id: call-to-action
-    subtitle: ''
+    subtitle: ""
     title: Got Kids? Get Over $6400 In Earned Income Credit!
     type: section_cta
 menus:
@@ -58,4 +58,3 @@ menus:
     weight: 2
 template: landing
 ---
-

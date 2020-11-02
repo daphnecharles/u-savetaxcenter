@@ -18,7 +18,7 @@ sections:
       Our tax experts can also amend your tax return for additional income not
       reported on their original return, in order to prevent penalties and
       interest from the IRS.
-    image: /images/undraw_calculator_0evy.svg
+    image: /images/amended.jpg
     title: Amended Tax Return
     type: section_hero
 menus:
@@ -30,4 +30,3 @@ menus:
     weight: 3
 template: landing
 ---
-
