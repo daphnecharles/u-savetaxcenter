@@ -103,8 +103,5 @@ menus:
   main:
     title: Home
     weight: 1
-  secondary:
-    title: Home
-    weight: 1
 template: landing
 ---

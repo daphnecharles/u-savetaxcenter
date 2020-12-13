@@ -1,3 +1,6 @@
+# Netlify
+.netlify
+
 # Logs
 logs
 *.log
@@ -51,8 +54,10 @@ typings/
 # Output of 'npm pack'
 *.tgz
 
-# dotenv environment variables file
+# dotenv environment variables files
 .env
+.env.development
+.env.production
 
 # gatsby files
 .cache/
