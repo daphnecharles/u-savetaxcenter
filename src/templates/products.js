@@ -9,7 +9,6 @@ const headerStyles = {
 
 export default class ProductsPage extends React.Component {
   render() {
-    console.log(this.props);
     return (
       <Layout {...this.props}>
         <div className="block-header inner-small" style={headerStyles}>
